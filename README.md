@@ -8,8 +8,8 @@ A second-hand marketplace exclusively for PES University students to buy, sell, 
 
 | Name | SRN | Department / Branch |
 | :--- | :--- | :--- |
-| **Siddesh V S** | `PES1UG24CS693` | Computer Science & Engineering |
-| **Shaizan Ulla Shariff** | `PES1UG24CS690` | Computer Science & Engineering |
+| **Siddesh V S** | `PES1UG24CS693` | CSE |
+| **Shaizan Ulla Shariff** | `PES1UG24CS690` | CSE |
 
 ---
 
